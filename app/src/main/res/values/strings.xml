@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HelloNotes</string>
+
+    <string name="appTitle">HelloNotes</string>
+    <string name="setting">设置</string>
+    <string name="status_bar">状态栏透明:</string>
+    <string name="set_theme_color">设置主题颜色</string>
+    <string name="set_nav_bar">设置导航栏颜色：</string>
+    <string name="accent_color">Accent Color</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="primary_color">选择颜色</string>
+    <string name="preference_accent_color">accent_color</string>
+    <string name="preference_colored_nav_bar">nav_bar</string>
+    <string name="preference_translucent_status_bar">set_translucent_statusbar</string>
+    <string name="cancel">取消</string>
+    <string name="ok_action">确定</string>
+    <string name="preference_primary_color">primary_color</string>
+    <string name="preference_base_theme">basic_theme</string>
+</resources>

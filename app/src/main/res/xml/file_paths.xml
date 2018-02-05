@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--root-path代表/也就是Android设备的根目录，该目录下包含着手机内部存储器，外置SD卡等所有文件的目录。-->
+<!--然后我们允许程序，发现将path设置为root-path解决了FileProvider无法使用外置SD卡的问题-->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <root-path
+        name="my_images"
+        path=""/>
+</paths>
+
